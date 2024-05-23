@@ -1,0 +1,30 @@
+{
+  "id": "4442104",
+  "name": "taiilwind-template",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "38803160",
+      "name": "Contacts",
+      "font_class": "Contacts",
+      "unicode": "e725",
+      "unicode_decimal": 59173
+    },
+    {
+      "icon_id": "38803228",
+      "name": "Inventory",
+      "font_class": "Inventory",
+      "unicode": "e729",
+      "unicode_decimal": 59177
+    },
+    {
+      "icon_id": "38803431",
+      "name": "Reporting",
+      "font_class": "Reporting",
+      "unicode": "e72b",
+      "unicode_decimal": 59179
+    }
+  ]
+}

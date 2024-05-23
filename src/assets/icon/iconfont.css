@@ -1,0 +1,27 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 4442104 */
+  src: url('iconfont.woff2?t=1709267824600') format('woff2'),
+       url('iconfont.woff?t=1709267824600') format('woff'),
+       url('iconfont.ttf?t=1709267824600') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 32px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-Contacts:before {
+  content: "\e725";
+}
+
+.icon-Inventory:before {
+  content: "\e729";
+}
+
+.icon-Reporting:before {
+  content: "\e72b";
+}
+
